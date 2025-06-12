@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "684a99f89c338735686c4bd1"
+  },
+  "nama": "Sepatu Nike",
+  "ukuran": 43,
+  "harga": 650000,
+  "stok": 7,
+  "warna": "Hitam-Putih"
+}]

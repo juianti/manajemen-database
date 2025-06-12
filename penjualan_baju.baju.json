@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "682541f4d1a095db476c4bd0"
+  },
+  "nama": "Kemeja Flanel",
+  "kategori": "Pria",
+  "ukuran": [
+    "M",
+    "L"
+  ],
+  "warna": [
+    "Merah"
+  ],
+  "stok": 50,
+  "harga": 150000
+}]
